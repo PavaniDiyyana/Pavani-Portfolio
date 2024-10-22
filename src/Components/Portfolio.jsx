@@ -31,28 +31,29 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "High-performance single-page application🎉",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+"An e-commerce website improvement with optimized dynamic routing and functionality to enhance user experience and resolved debugging issues.",
+    url: "https://github.com/PavaniDiyyana/ecommerce-website",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Food-recipe app",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Contributed a responsive food-recipe app, enhancing performance $0% through lazy loading with best UI and enhanced user experience.",
+    url: "https://github.com/PavaniDiyyana/Food-recipe-app"
+
   },
   {
-    title: "My Resume Site",
+    title: "Dynamic UI/UX Design with APIs",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Created a weather app with RESTful API integrationfor dynamic data fetching and implemented responsive web design.",
+    url: "https://github.com/PavaniDiyyana/Weatherapp",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Responsive layouts",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Developed a responsive portfolio using front-end technologies with smooth transitions and dynamic animations to enhance user interface",
+    url: "https://github.com/PavaniDiyyana/portfolio",
   },
 ];
 
